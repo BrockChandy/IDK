@@ -1,3 +1,5 @@
+**NEW UPDATE v1.0.1!**
+
 **Installing with CurseForge (Recommended for Beginners)**
 
 1. Install CurseForge via https://www.curseforge.com/download/app **CHOOSE STANDALONE**
@@ -6,7 +8,7 @@
 
 3. Once logged in, **install Minecraft. Choose Standard Version.**
 
-4. Once Minecraft inside CurseForge is installed, press **import** in the top left and put in this profile code: **-Lbwvqfi**
+4. Once Minecraft inside CurseForge is installed, press **import** in the top left and put in this profile code: **KyDN2VjU**
    
 5. Once your profile is loaded with the mods, press play!
    
@@ -30,6 +32,7 @@
 **BETA CODE**
 1. To access the beta, press **import** in the top left in CurseForge and put in this profile code: **X1d2xkke**
 2. You will need to get in contact with Brock if you are hoping to test the Beta server, as it will only be up on request.
+
 
 
 
